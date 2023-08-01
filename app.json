@@ -25,7 +25,7 @@
 
         "CHANNEL": {
 
-            "description": "Channel or Group user Name With @",
+            "description": "@Andymovies",
 
             "required":true
 
@@ -43,7 +43,7 @@
 
         "API_ID": {
 
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "8206404 ",
 
             "required": true
 
@@ -51,7 +51,7 @@
 
         "API_HASH": {
 
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "e935d9b56e3fd2c05c743093efb761c9 ",
 
             "required": true
 
@@ -59,7 +59,7 @@
 
         "TOKEN": {
 
-            "description": "Your Bot Token From @BotFather",
+            "description": "5951942864:AAFVVBT3ZwmNwek6W6F_xQ-v3sX2DSymTcw",
 
             "required": true
 
@@ -67,7 +67,7 @@
 
         "ADMIN": {
 
-            "description":"Add Your User ID",
+            "description":"5439158881",
 
             "required": true
 
@@ -75,13 +75,13 @@
 
         "DB_URL":{
 
-             "description":"Database Url Get It From Mongo DB"
+             "description":"mongodb+srv://Aman:<Aman>@aman.qgwohom.mongodb.net/?retryWrites=true&w=majority"
 
         },
 
         "DB_NAME":{
 
-               "description":"Database Name ",
+               "description":"Aman ",
 
                "required":true
 
@@ -89,14 +89,14 @@
 
         "LOG_CHANNEL":{
 
-             "description":"Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
+             "description":"-1001989083051",
 
              "required": true
 
         },
         "LAZY_PIC":{
 
-            "description":"Start up pic of your bot. Get from telegraph_Bot",
+            "description":"https://telegra.ph/file/1f615f51ae3aa7dcdb7dc.jpg",
 
             "required": true
 
