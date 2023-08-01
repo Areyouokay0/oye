@@ -17,7 +17,7 @@ import os
 
 CHANNEL = os.environ.get('CHANNEL', "")
 STRING = os.environ.get("STRING", "")
-ADMIN = int(os.environ.get("ADMIN", 5439158881)
+ADMIN = int(os.environ.get("ADMIN", 5439158881))
 bot_username = os.environ.get("BOT_USERNAME","GangsterBaby_renamer_BOT")
 log_channel = int(os.environ.get("LOG_CHANNEL", "-1001989083051"))
 token = os.environ.get('TOKEN', '')
