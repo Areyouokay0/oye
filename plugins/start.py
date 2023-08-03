@@ -22,7 +22,7 @@ bot_username = os.environ.get("BOT_USERNAME","GangsterBaby_renamer_BOT")
 log_channel = int(os.environ.get("LOG_CHANNEL", ""))
 token = os.environ.get('TOKEN', '')
 botid = token.split(':')[0]
-FLOOD = 500
+FLOOD = 5
 LAZY_PIC = os.environ.get("LAZY_PIC", "")
 
 
